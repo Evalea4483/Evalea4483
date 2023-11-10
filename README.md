@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Evalea4483
-- 👀 I’m interested in ... Software development, game development, and anything tech related.
-- 🌱 I’m currently learning ... I have python and AI classes fall 2023 so I'll be practicing that as well as honing my HTML/CSS/JS skills on the side. 
+- 👋 Hi, I’m @Evalea4483 -- Gwendolyn Stephenson
+- 👀 I’m interested in ... Quantum algorithms and quantum computation, Software development, game development, and anything tech related.
+- 🌱 I’m currently learning ... Cirq, Qiskit, and Java
 - 💞️ I’m looking to collaborate on ... Anything! I'm excited and ready to gain new experiences.
 - 📫 How to reach me ... email is probably best: vorduzk@gmail.com
 
