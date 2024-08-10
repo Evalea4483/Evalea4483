@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Anything! I'm excited and ready to gain new experiences.
 - 📫 How to reach me ... email is probably best: vorduzk@gmail.com
 
-
+To learn more about me, visit my website linked in github!
 
 <!---
 Evalea4483/Evalea4483 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
